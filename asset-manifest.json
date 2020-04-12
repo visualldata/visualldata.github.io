@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07ae030a.chunk.css",
+    "main.js": "/static/js/main.8b94343e.chunk.js",
+    "main.js.map": "/static/js/main.8b94343e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.78311062.js",
+    "runtime-main.js.map": "/static/js/runtime-main.78311062.js.map",
+    "static/js/2.434d7ae0.chunk.js": "/static/js/2.434d7ae0.chunk.js",
+    "static/js/2.434d7ae0.chunk.js.map": "/static/js/2.434d7ae0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d51d2ce455be467b9852ce991c223c7f.js": "/precache-manifest.d51d2ce455be467b9852ce991c223c7f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.07ae030a.chunk.css.map": "/static/css/main.07ae030a.chunk.css.map",
+    "static/js/2.434d7ae0.chunk.js.LICENSE.txt": "/static/js/2.434d7ae0.chunk.js.LICENSE.txt",
+    "static/media/ipatinga.svg": "/static/media/ipatinga.9bf516a7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78311062.js",
+    "static/js/2.434d7ae0.chunk.js",
+    "static/css/main.07ae030a.chunk.css",
+    "static/js/main.8b94343e.chunk.js"
+  ]
+}
